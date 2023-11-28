@@ -15,7 +15,7 @@ React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트�
 - expo
 
 ## ⚙️ 사용API
-- 국토교통부_아파트매매 실거래 상세 자료(https://www.data.go.kr/iim/api/selectAPIAcountView.do)
+- 국토교통부_아파트매매 실거래 상세 자료(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057511)
 - 기상청_단기예보 ((구)_동네예보(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15084084)
 
 ## 📌주요 기능
