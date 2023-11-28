@@ -10,9 +10,7 @@ React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트�
 
 ## ⚙️ 개발환경
 - 바닐라JS
-- React Native
-- tailwind CSS
-- expo
+- React Native(expo)
 
 ## ⚙️ 사용API
 - 국토교통부_아파트매매 실거래 상세 자료(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057511)
