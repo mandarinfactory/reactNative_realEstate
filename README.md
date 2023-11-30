@@ -18,7 +18,7 @@ React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트�
 - 주소기반산업지원서비스(https://business.juso.go.kr/addrlink/openApi/apiExprn.do?cPath=99MA)
 
 ## 📌주요 기능
-### 현재위치 날씨칸 - <a href="">위키</a>
+### 현재위치 날씨칸 - <a href="https://github.com/mandarinfactory/reactNative_realEstate/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%ED%98%84%EC%9E%AC%EC%9C%84%EC%B9%98-%EB%82%A0%EC%94%A8%EC%B9%B8)">위키</a>
 - 공공데이터API(기상청_단기예보 ((구)_동네예보) 조회서비스)를 이용해서 현재 위치 날씨를 알려주도록 구현했습니다.
 - 해당 위치를 가져와서 API에서 사용할 수 있는 library를 사용하여 위치변환을 해서 사용했습니다.
 - 날씨 및 해당위치가 보이도록 구현했습니다.
