@@ -1,7 +1,7 @@
 # reactNative_realEstate(집순위)
 
 ## 🖥️ 프로젝트 소개
-React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트매매 실거래 상세 자료, 기상청_단기예보 ((구)_동네예보) 조회서비스)를 이용해서 지역 기반 아파트 실거래가 및 날씨를 확인할 수 있는 앱을 만들었습니다.
+React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트매매 실거래 상세 자료, 기상청_단기예보 ((구)_동네예보) 조회서비스) 및 주소기반API를 이용해서 지역 기반 아파트 실거래가 및 날씨를 확인할 수 있는 앱을 만들었습니다.
 
 ## 🧭 웹사이트
 
@@ -15,6 +15,7 @@ React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트�
 ## ⚙️ 사용API
 - 국토교통부_아파트매매 실거래 상세 자료(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057511)
 - 기상청_단기예보 ((구)_동네예보(https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15084084)
+- 주소기반산업지원서비스(https://business.juso.go.kr/addrlink/openApi/apiExprn.do?cPath=99MA)
 
 ## 📌주요 기능
 ### 현재위치 날씨칸 - <a href="">위키</a>
