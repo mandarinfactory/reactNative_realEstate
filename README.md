@@ -23,7 +23,7 @@ React Native(expo)를 기반으로 공공데이터API(국토교통부_아파트�
 - 해당 위치를 가져와서 API에서 사용할 수 있는 library를 사용하여 위치변환을 해서 사용했습니다.
 - 날씨 및 해당위치가 보이도록 구현했습니다.
   
-### 시/구 검색칸 - <a href="https://github.com/mandarinfactory/reactNative_realEstate/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EC%8B%9C-%EA%B5%AC-%EA%B2%80%EC%83%89%EC%B9%B8)">위키</a>
+### 시/구 검색칸 - <a href="https://github.com/mandarinfactory/reactNative_realEstate/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EC%8B%9C,%EA%B5%AC-%EA%B2%80%EC%83%89%EC%B9%B8)">위키</a>
 - 검색칸에 시/구를 검색하면 연관검색어로 나오게 했습니다.
 - 연관검색어내 클릭시, 해당 시/구로 업데이트되서 아파트 실거래가가 변하도록 구현했습니다.
 - 옆 나침반 아이콘을 클릭시, 다시 현재 위치 기반으로 돌아오게 구현했습니다.
